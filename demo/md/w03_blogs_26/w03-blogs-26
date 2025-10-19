@@ -1,0 +1,40 @@
+[Github URL](https://github.com/timd155223/1141-2N-demo-211410526.git)
+
+### W03-P1: Create router in App_26.jsx
+
+#### => route / for HomePage_26
+
+![](w03-p1-1.png)
+
+#### => route /static_26 for BlogStaticPage_26
+
+![](w03-p1-2.png)
+
+```
+98621c4 timd155223      Wed Oct 1 20:24:15 2025 +0800   W03-P1: Create router in App_26.jsx
+```
+
+### W03-P2: Implement route /static_26 for BlogStaticPage_26
+
+![](w03-p2.png)
+
+```
+3361e1b timd155223      Sun Oct 5 14:57:52 2025 +0800   W03-P2: Implement route /static_26 for BlogStaticPage_26
+```
+### W03-P3: Implement route /localjson_26 by showing blogs from local json
+ 
+#### => Chrome demo using React DevTools
+ 
+![](w03-p3-1.png)
+ 
+#### => code for BlogLocalJson_26
+ 
+![](w03-p3-2.png)
+
+```
+891d3b2 timd155223      Sun Oct 5 16:15:27 2025 +0800   W03-P3: Implement route /localjson_26 by showing blogs from local json
+```
+
+### W03-logs: git logs of W03
+
+![](w03-logs.png)

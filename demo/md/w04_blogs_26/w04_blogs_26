@@ -1,0 +1,47 @@
+[Github URL](https://github.com/timd155223/1141-2N-demo-211410526.git)
+
+### W04-P1: Create a express Web server to show your info
+
+![](w04-p1.png)
+
+```
+60c6dea timd155223      Wed Oct 8 19:49:30 2025 +0800   W04-P1: Create a express Web server to show your info
+```
+
+### W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data
+
+#### => SQL to create blog_xx table and 3 data
+
+![](w04-p2-1.png)
+
+#### => show 3 data
+
+![](w04-p2-2.png)
+
+#### => implement route /api/blog_xx
+
+![](w04-p2-3.png)
+
+```
+ad01d0c timd155223      Wed Oct 8 21:19:35 2025 +0800   W04-P2: Create blog_xx table with 3 data, implement route /api/blog_xx to return a json array with 3 data 
+```
+### W04-P3: from client side to get json data from Node
+ 
+#### => modified client and server code
+ 
+![](w04-p3-1.png)
+ 
+#### => Chrome, show 3 blogs
+
+![](w04-p3-2.png)
+
+
+```
+fcb9920 timd155223      Sun Oct 12 23:56:48 2025 +0800  W04-P3: from client side to get json data from Node
+```
+
+### W04-logs: git logs of W04
+
+![](w04-logs.png)
+
+
