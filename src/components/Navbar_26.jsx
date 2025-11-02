@@ -69,11 +69,19 @@ const Navbar_26 = () => {
                   <li className="menu-item"><Link to="/static_26">W3-BlogStatic_26</Link></li>
                   <li className="menu-item"><Link to="/localjson_26">W3-BlogLocalJson_26</Link></li>
                   <li className="menu-item"><Link to="/node_26">W4-BlogNode_26</Link></li>
-                  <li className="menu-item"><Link to="#">W5-BlogSupabase_26</Link></li>
+                  <li className="menu-item"><Link to="/supa_26">W5-BlogSupabase_26</Link></li>
                 </ul>
               </div>
             </li>
-            <li className="menu-item"><Link to="#">Blog</Link></li>
+            <li className="menu-item dropdown">
+              <Link to="#">Tutorials +</Link>
+              <div className="sub-menu-wrapper slideInUp">
+                <ul className="sub-menu">
+                  <li className="menu-item"><Link to="/tutorials/T11_26">T11_ErrorExamplePage_26</Link></li>
+                  <li className="menu-item"><Link to="/tutorials/T12_26">T12_UseStateBasicsPage_26</Link></li>
+                </ul>
+              </div>
+            </li>
             <li className="menu-item"><Link to="#">contact</Link></li>
           </ul>
           <Link
@@ -145,7 +153,6 @@ const Navbar_26 = () => {
                 </ul>
               </div>
             </li>
-            <li className="menu-item"><Link to="#">Blog</Link></li>
             <li className="menu-item"><Link to="#">contact</Link></li>
           </ul>
         </div>
