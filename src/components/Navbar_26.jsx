@@ -69,7 +69,8 @@ const Navbar_26 = () => {
                   <li className="menu-item"><Link to="/static_26">W3-BlogStatic_26</Link></li>
                   <li className="menu-item"><Link to="/localjson_26">W3-BlogLocalJson_26</Link></li>
                   <li className="menu-item"><Link to="/node_26">W4-BlogNode_26</Link></li>
-                  <li className="menu-item"><Link to="/supa_26">W5-BlogSupabase_26</Link></li>
+                  <li className="menu-item"><Link to="/supa_26">W6-BlogSupa_26</Link></li>
+                  <li className="menu-item"><Link to="/localjson2_26">W7-BlogLocalJson2_26</Link></li>
                 </ul>
               </div>
             </li>
@@ -143,13 +144,15 @@ const Navbar_26 = () => {
             </li>
 
             <li className="menu-item dropdown">
-              <Link to="#">Services +</Link>
-              <div className="sub-menu-wrapper">
+              <Link to="#">Demo +</Link>
+              <div className="sub-menu-wrapper slideInUp">
                 <ul className="sub-menu">
-                  <li className="menu-item"><Link to="#">Service 1</Link></li>
-                  <li className="menu-item"><Link to="#">Service 2</Link></li>
-                  <li className="menu-item"><Link to="#">Service 3</Link></li>
-                  <li className="menu-item"><Link to="#">Service 4</Link></li>
+                  <li className="menu-item"><Link to="/bookList_26">W2-BookList_26</Link></li>
+                  <li className="menu-item"><Link to="/static_26">W3-BlogStatic_26</Link></li>
+                  <li className="menu-item"><Link to="/localjson_26">W3-BlogLocalJson_26</Link></li>
+                  <li className="menu-item"><Link to="/node_26">W4-BlogNode_26</Link></li>
+                  <li className="menu-item"><Link to="/supa_26">W6-BlogSupa_26</Link></li>
+                  <li className="menu-item"><Link to="/localjson2_26">W7-BlogLocalJson2_26</Link></li>
                 </ul>
               </div>
             </li>

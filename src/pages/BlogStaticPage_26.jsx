@@ -1,9 +1,10 @@
 import { CiGlobe } from "react-icons/ci";
 import { ImMug } from "react-icons/im";
+import Wrapper from "../assets/wrappers/Blog2_xx.jsx";
 
 const BlogStaticPage_26 = () => {
   return (
-    <>
+    <Wrapper>
       <section className="blogs">
         <div className="section-title">
           <h2>static blogs -- timd, 211410526</h2>
@@ -63,7 +64,7 @@ const BlogStaticPage_26 = () => {
           </article>
         </div>
       </section>
-    </>
+    </Wrapper>
   );
 };
 

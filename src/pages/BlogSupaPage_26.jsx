@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 
 // import blogData_26 from '../assets/data/blogData.json';
 import Blogs_26 from '../components/Blog_26';
+import Wrapper from "../assets/wrappers/Blog2_xx.jsx";
 
 // const api_url = 'http://localhost:5000/api/blogs_26';
 

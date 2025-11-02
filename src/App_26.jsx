@@ -1,6 +1,6 @@
 import { createBrowserRouter, RouterProvider } from 'react-router';
 
-import { HomeLayoutPage_26, HomePage_26, BlogStaticPage_26, BlogLocalJsonPage_26, BlogNodePage_26,BookListPage_26,BlogSupaPage_26} from './pages';
+import { HomeLayoutPage_26, HomePage_26, BlogStaticPage_26, BlogLocalJsonPage_26,BlogNodePage_26,BookListPage_26,BlogSupaPage_26,BlogLocalJsonPage2_26} from './pages';
 import { T11_ErrorExamplePage_26, T12_UseStateBasicsPage_26 } from './pages/tutorials';
 
 const router = createBrowserRouter([
@@ -31,6 +31,10 @@ const router = createBrowserRouter([
       {
         path: 'supa_26',
         element: <BlogSupaPage_26 />,
+      },
+      {
+        path: 'localjson2_26',
+        element: <BlogLocalJsonPage2_26 />,
       },
     ],
   },

@@ -1,7 +1,7 @@
 import { CiGlobe } from "react-icons/ci";
 import { ImMug } from "react-icons/im";
 
-const Blogs_26 = ({id, img, category,title, descrip}) => {
+const Blog_26 = ({id, img, category,title, descrip}) => {
     return (
         <article key={id} className="blog">
             <img
@@ -22,4 +22,4 @@ const Blogs_26 = ({id, img, category,title, descrip}) => {
     )
 }
 
-export default Blogs_26
+export default Blog_26
